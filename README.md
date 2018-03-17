@@ -43,10 +43,10 @@ All credit for the creation of the tools and content listed below go to their re
 * [**Blender:**](https://www.blender.org/) A free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation.
     * [Official Tutorials](https://www.blender.org/support/tutorials/)
     * [Blender Beginner Tutorial Series](https://www.youtube.com/watch?v=JYj6e-72RDs&index=2&list=PLjEaoINr3zgHs8uzT3yqe4iHGfkCmMJ0P)
-* [**Maya**](https://www.autodesk.com/education/free-software/maya) A software that provides an integrated, powerful toolset for 3D animation, modelling, simulation, rendering. It has a free trial version, & is free for students for 3 years. It can be hardware intensive.
+* [**Maya:**](https://www.autodesk.com/education/free-software/maya) A software that provides an integrated, powerful toolset for 3D animation, modelling, simulation, rendering. It has a free trial version, & is free for students for 3 years. It can be hardware intensive.
     * [Learn Maya 2016 - Tutorial for beginners](https://www.youtube.com/watch?v=5eyKVWkrzts&list=PLsPHRLf6UN4n778LjMnKVG1nw_PX8Lhja)
   
-* [**3ds Max**](https://www.autodesk.com/education/free-software/3ds-max) A 3D modelling and rendering software that is more foucsed on modeling and design as compared to Maya. It has a free trial version, & is free for students for 3 years. It can be hardware intensive.
+* [**3ds Max:**](https://www.autodesk.com/education/free-software/3ds-max) A 3D modelling and rendering software that is more foucsed on modeling and design as compared to Maya. It has a free trial version, & is free for students for 3 years. It can be hardware intensive.
     * [24 3ds Max Modeling Tutorials For Beginners](http://www.tutorialboneyard.com/3ds-max-modeling-beginner-tutorials/)
 
 ### Audio Tools
@@ -60,11 +60,11 @@ All credit for the creation of the tools and content listed below go to their re
   * [Official Tutorials](https://unity3d.com/learn/tutorials)
   * [Unity Beginner Tutorials](https://www.youtube.com/watch?v=IlKaB1etrik&list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6&index=2)
 
-* [**Godot:**](https://godotengine.org/)A 2D and 3D cross-platform compatible game engine. Can use C#, C++ or its own high level scripting langualge, GDScript similar to Python.
+* [**Godot:**](https://godotengine.org/) A 2D and 3D cross-platform compatible game engine. Can use C#, C++ or its own high level scripting langualge, GDScript similar to Python.
   * [Official Documentation & Tutorials](http://docs.godotengine.org/en/3.0/index.html)
   * [Godot 101: Learning the Godot Game Engine](https://www.youtube.com/watch?v=gHA4M2cqWb0&list=PLsk-HSGFjnaFISfGRTXxp65FXOa9UkYc5)
 
-* [**Unreal Engine 4**:](https://www.unrealengine.com/en-US/what-is-unreal-engine-4)A powerful game engine used by many AAA and Inde games. Uses C++ as the primary scripting language, but also includes a powerful visual scripting engine. This engine has very high system requirements.
+* [**Unreal Engine 4**:](https://www.unrealengine.com/en-US/what-is-unreal-engine-4) A powerful game engine used by many AAA and Inde games. Uses C++ as the primary scripting language, but also includes a powerful visual scripting engine. This engine has very high system requirements.
   * [Documentation](https://docs.unrealengine.com/en-us/)
   * [Official Tutorials](https://docs.unrealengine.com/en-us/Videos)
   * [Creating Games For Beginners Using UE4](https://www.youtube.com/watch?v=1M3S3eiJK5I&list=PLL0cLF8gjBpqDdMoeid6Vl5roMl6xJQGC)
