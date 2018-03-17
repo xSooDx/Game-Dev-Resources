@@ -6,12 +6,16 @@ This list is by no means an exhaustive list. It is meant to help give beginners 
 
 All credit for the creation of the tools and content listed below go to their respective creators. This document is meant only to share their work to those who are interested.
 ## Contents
-* [Development Tools](#development-tools)
-    + [Image Editors](#image-editors)
-    + [3D Modeling Tools](#3d-modeling-tools)
-    + [Audio Tools](#audio-tools)
-    + [Game Engines](#game-engines)
-    + [Game Development Frameworks](#game-development-frameworks)
+- [Game Design](#game-design)
+  * [Youtube Channels](#youtube-channels)
+  * [Courses](#courses)
+- [Development Tools](#development-tools)
+  * [Image Editors](#image-editors)
+  * [3D Modeling Tools](#3d-modeling-tools)
+  * [Audio Tools](#audio-tools)
+  * [Game Engines](#game-engines)
+  * [Game Development Frameworks](#game-development-frameworks)
+  * [Other Useful Tools](#other-useful-tools)
 
 ## Game Design
 
@@ -72,6 +76,6 @@ All credit for the creation of the tools and content listed below go to their re
 *  [**LibGDX:**](https://libgdx.badlogicgames.com/)A cross platform, open source game development framework written in the Java.
 
 ### Other Useful Tools
-*  [**Git:**]()
-*  [**Github:**]()
+*  [**Git:**](https://git-scm.com)
+*  [**Github:**](https://github.com)
 
