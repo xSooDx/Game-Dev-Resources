@@ -52,7 +52,7 @@ All credit for the creation of the tools and content listed below go to their re
 ### Audio Tools
 * [**Audacity:**](http://www.audacityteam.org/) Audacity is free, open source, cross-platform audio software for multi-track recording and editing.
 * [**LMMS:**](http://lmms.sourceforge.net/) LMMS is a free cross-platform software which allows you to produce music with your computer.
-* [**SFXR:**](http://www.drpetter.se/project_sfxr.html) SFXR is a sound generator, widely used for creating sound effects for Ludum Dare games.
+* [**SFXR:**](http://www.drpetter.se/project_sfxr.html) SFXR is a sound generator, widely used for creating sound effects.
 
 ### Game Engines
 * [**Unity Engine:**](https://unity3d.com) An easy to use, cross-platform game engine to make 2D & 3D games. Primarily uses C# for scripting.
