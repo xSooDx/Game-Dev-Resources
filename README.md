@@ -29,7 +29,7 @@ All credit for the creation of the tools and content listed below go to their re
     + [Game Design:](https://www.youtube.com/watch?v=e31OSVZF77w&list=PLhyKYa0YJ_5BkTruCmaBBZ8z6cP9KzPiX&index=2) A collection of videos that takes a deeper look at the principles of Game Design.
       + [Loneliness:](http://www.necessarygames.com/my-games/loneliness/flash) This is a game that is mentioned in the ['Mechanics as Metaphor'](https://www.youtube.com/watch?v=4QwcI4iQt2Y&index=86&list=PLhyKYa0YJ_5BkTruCmaBBZ8z6cP9KzPiX) video of the playlist, but I've mentioned this separately because it shows how deep stories can be told using simple game mechanics.
 
-* [**Mark Brown:**](https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw) A former game journalist who has started his own YouTube to host a seties about game design.
+* [**Mark Brown:**](https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw) A former game journalist who has started his own YouTube series about game design.
     + [Game Maker's Toolkit:](https://www.youtube.com/playlist?list=PLc38fcMFcV_s7Lf6xbeRfWYRt7-Vmi_X9) A series that analysis various aspects of game design, and takes a deep look into the design choices of many games.
     + [Boss Keys:](https://www.youtube.com/watch?v=ouO1R6vFDBo&index=1&list=PLc38fcMFcV_ul4D6OChdWhsNsYY3NA5B2&t=0s) A series that focuses on a game-by-game analysis of the dungeon design, and its evolution, in The Legend of Zelda games.
 
