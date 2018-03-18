@@ -76,11 +76,11 @@ All credit for the creation of the tools and content listed below go to their re
 
 ### Game Development Frameworks
 * [**MonoGame:**](http://www.monogame.net) An open source implementation of the Microsoft XNA 4 Framework. Allows for cross platform game development uses C#. This does not include an editor and requires decent knowledge of programming.
-  * [MonoGame Tutorial Series](http://www.gamefromscratch.com/page/MonoGame-Tutorial-Series.aspx)
+    * [MonoGame Tutorial Series](http://www.gamefromscratch.com/page/MonoGame-Tutorial-Series.aspx)
 * [**Pygame:**](https://www.pygame.org) A library for game development in Python programming language. The high level programming of Python makes it is easy to learn and use.
-  * [PyGame with Python 3 Game Development](https://www.youtube.com/watch?v=ujOTNg17LjI&list=PLQVvvaa0QuDdLkP8MrOXLe_rKuf6r80KO)
+    * [PyGame with Python 3 Game Development](https://www.youtube.com/watch?v=ujOTNg17LjI&list=PLQVvvaa0QuDdLkP8MrOXLe_rKuf6r80KO)
 *  [**LibGDX:**](https://libgdx.badlogicgames.com/) A cross platform, open source game development framework written in the Java.
-  * [Introduction To LibGDX](https://www.youtube.com/watch?v=9mZqmBROlO4&index=5&list=PLZhNP5qJ2IA2RfQBxAC06xv2S07o-UBSd)
+    * [Introduction To LibGDX](https://www.youtube.com/watch?v=9mZqmBROlO4&index=5&list=PLZhNP5qJ2IA2RfQBxAC06xv2S07o-UBSd)
 
 ### Other Useful Tools
 *  [**Git:**](https://git-scm.com/) A version control system, a tool to manage your source code. history.
