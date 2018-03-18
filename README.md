@@ -83,5 +83,6 @@ All credit for the creation of the tools and content listed below go to their re
 *  [**Git:**](https://git-scm.com/) A version control system, a tool to manage your source code. history.
     * [Try Git: Git Tutorial](https://try.github.io/)
 *  [**Github:**](https://github.com/) A hosting service for git repositories.
-    * [Hello World · GitHub Guides](https://guides.github.com/activities/hello-world/) \
-**_Both of the above are essential tools for any programmer_**
+    * [Hello World · GitHub Guides](https://guides.github.com/activities/hello-world/)
+    
+**--_Both of the above are essential tools for any programmer_--**
